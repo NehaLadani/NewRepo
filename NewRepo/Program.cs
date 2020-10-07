@@ -8,6 +8,8 @@ namespace NewRepo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine($"How r u all");
+            Console.WriteLine($"All is well");
+            Console.WriteLine($"Thank u");
         }
     }
 }
